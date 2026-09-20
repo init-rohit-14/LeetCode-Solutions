@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
