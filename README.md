@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [1528-shuffle-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
