@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
