@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0709-to-lower-case](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0709-to-lower-case) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
