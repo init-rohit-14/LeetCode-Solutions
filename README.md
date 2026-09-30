@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
