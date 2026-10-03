@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0412-fizz-buzz](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Geometry
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
