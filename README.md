@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Two Pointers
