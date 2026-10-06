@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1528-shuffle-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -88,12 +90,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
