@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1528-shuffle-string](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 ## String
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/init-rohit-14/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
